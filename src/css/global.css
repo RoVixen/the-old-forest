@@ -1,0 +1,7 @@
+:root{
+    --bg-c:rgba(247,247,247,0.81);
+}
+
+body{
+    background-image: url(../img/leather_bg.png);
+}

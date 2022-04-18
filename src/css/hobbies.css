@@ -1,0 +1,11 @@
+.marble_menu{
+    list-style: none;
+    text-decoration: underline;
+}
+
+.marble_menu li:hover{
+    list-style: none;
+    text-decoration: underline;
+    font-weight: bolder;
+    cursor: pointer;
+}

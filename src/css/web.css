@@ -1,0 +1,15 @@
+.web_wrapper{
+    color: rgba(247,247,247,0.81);
+    font-family: 'Aleo';
+    margin: 0.6rem;
+}
+
+.web_wrapper p{
+    text-indent:4%;
+}
+
+.line {
+    height: 3px;
+    margin: 0.6rem;
+    background-color: rgba(206,216,227,0.63);
+}

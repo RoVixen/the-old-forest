@@ -1,0 +1,45 @@
+.old-f-post {
+  padding: 0.5rem;
+}
+
+.old-f-post .line {
+  height: 1px;
+  width: 100%;
+  margin: 0.1rem;
+  background-color: rgba(206,216,227,0.63);
+}
+
+.old-f-post .top {
+  color: rgba(222,220,220,0.71);
+  width: 49%;
+  display: inline-block;
+}
+
+.old-f-post .date {
+  text-align: right;
+  font-family: monospace;
+}
+
+.old-f-post .content {
+  font-family: 'Adamina';
+  color: #ffffff;
+  padding-left: 0.5rem;
+  padding-right: 0.3rem;
+}
+
+.old-f-post .content .subtitle {
+  font-size: medium;
+  color: rgba(255,255,255,0.52);
+  margin-top: 0.2rem;
+}
+
+.old-f-post .content p {
+  font-size: 1rem;
+  color: rgba(247,247,247,0.81);
+  font-family: 'Aleo';
+  margin-top: 0.7rem;
+}
+
+.old-f-post .content .title {
+  margin: 0px;
+}

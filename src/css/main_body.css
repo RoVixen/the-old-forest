@@ -1,0 +1,51 @@
+
+
+.main_wrapper{
+    border-right: 4px solid #155122;
+    border-left: 4px solid #155122;
+    box-shadow: 0px 0px 20px 9px, inset 0px 0px 5px 3px;
+    background-image: url(../img/sage_tree.jpg);
+    background-size: contain;
+}
+
+@media screen and (min-width: 900px) {
+    .spacing_wrapper{
+        padding-left: 12%;
+        padding-right: 12%;
+    }
+}
+
+.header_wrapper{
+    padding: 28px;
+    background: rgba(0,0,0,0.21);
+    margin-bottom: 17%;
+}
+
+.header_wrapper h1{
+    font-family: Adamina, serif;
+    color: var(--white);
+}
+
+.header_wrapper h5{
+    color: var(--green);
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.left_section{
+    background: url(../img/seamless_marble.jpg) center / contain repeat;
+    box-shadow: inset 0px 0px 20px 4px rgba(33,37,41,0.77);
+    border-radius: 3px;
+    padding: 1.9rem;
+    border-style: none;
+    border-color: #6a6a6a;
+}
+
+.old-f-content{
+    background: #344328;
+    box-shadow: inset 0px 0px 20px 13px rgba(33,37,41,0.6);
+    padding: 1rem;
+}
+
+.nav-link:hover{
+    cursor: pointer;
+}
